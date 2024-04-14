@@ -8,3 +8,4 @@
 6. Extract top four associate job titles with corresponding job skills - using thefuzz.process.extract and str.replace()
 7. Draw top 4 most demanding junior-level job titles with corresponding top 20 most demanding job skills 
 ```
+Data Source: [Data Science Job Postings & Skills (2024)](https://www.kaggle.com/datasets/asaniczka/data-science-job-postings-and-skills)
